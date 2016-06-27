@@ -1,0 +1,21 @@
+{
+  "name": "jquery-validation-demo",
+  "authors": [
+    "Frank Shieh <xiejh@landicorp.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery-validation": "^1.15.0",
+    "semantic": "semantic-ui#^2.1.8"
+  }
+}
